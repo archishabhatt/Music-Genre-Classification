@@ -4,13 +4,13 @@ This repository consists of the data and Python code for the multi-class classif
 
 The goal of this project is to evaluate the performance of different classification algorithms on the GTZAN "Music Genre Classification" dataset. We implemented and compared several models, including:
 
-i. Naive Baseline model
+- Naive Baseline model
 
-ii. Ensemble Methods: Random Forest, XGBoost
+- Ensemble Methods: Random Forest, XGBoost
 
-iii. Instance-based: K-Nearest Neighbors (KNN)
+- Instance-based: K-Nearest Neighbors (KNN)
 
-iv. Deep Learning: Convolutional Neural Networks (CNN)
+- Deep Learning: Convolutional Neural Networks (CNN)
 
 ## About the Data
 
