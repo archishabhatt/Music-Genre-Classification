@@ -24,7 +24,7 @@ ii. `EDA_and_PCA.ipynb`: Conducts exploratory data analysis and sdimensionality 
 
 iii. `Naive_Baseline_model.ipynb`: Builds the initial benchmark model using assumptions based on inferences made from EDA and PCA.
 
-iv. `KNN_improved_model.ipynb` `RandomForest.ipynb`, `xgboost.ipynb`: Implements traditional machine learning models with hyperparameter tuning.
+iv. `KNN_model.ipynb` `RandomForest.ipynb`, `xgboost.ipynb`: Implements traditional machine learning models with hyperparameter tuning.
 
 v. `CNN.ipynb`: Deep learning approach touched on briefly, which uses audio spectrograms for classification.
 

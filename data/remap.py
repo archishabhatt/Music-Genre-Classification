@@ -17,6 +17,7 @@ After:
         Electric/       (disco, pop, metal)
  
 The original folder is NOT modified — files are copied, not moved.
+
 """
  
 import shutil
