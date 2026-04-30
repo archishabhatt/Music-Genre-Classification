@@ -40,3 +40,6 @@ To run the notebooks in this repository, follow these steps to ensure all depend
 
 `pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow librosa`
 
+## AI Citation
+
+Some code and material in this repository has been inspired by prompts given to AI models like Claude and Gemini.
